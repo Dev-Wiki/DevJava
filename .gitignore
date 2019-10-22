@@ -2,3 +2,6 @@
 /.gradle/
 /app/build/
 /app/build/classes/java/main/
+/.idea
+!/.idea/encodings.xml
+!/.idea/vcs.xml
